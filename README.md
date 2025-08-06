@@ -122,16 +122,8 @@ echo json_encode($response);
 
 ## 🧑‍💻 Author
 
-**Your Name** — [@3bdee](https://github.com/3bdee)
-
----
-
-## 📄 License
-
-Abdelmalek Eddiry
-
-```
+**Abdelmalek Eddirye** — [@3bdee](https://github.com/3bdee)
 
 
-Would you like the README to include deployment steps or how to package this project for others (e.g., in XAMPP’s `htdocs`)?
-```
+
+

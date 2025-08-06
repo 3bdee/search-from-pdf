@@ -122,7 +122,7 @@ echo json_encode($response);
 
 ## 🧑‍💻 Author
 
-**Abdelmalek Eddirye** — [@3bdee](https://github.com/3bdee)
+**Abdelmalek Eddiry** — [@3bdee](https://github.com/3bdee)
 
 
 
